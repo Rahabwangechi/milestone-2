@@ -16,7 +16,7 @@
     list-style-type: circle;
 }
 .cover{
-    background-image:url("/images/pexels.jpg");
+    background-image:url("https://raw.githubusercontent.com/Rahabwangechi/milestone-2/main/images/pexels.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size:100% ;
