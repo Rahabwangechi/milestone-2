@@ -124,3 +124,25 @@
 .form{
     
 }
+.button{
+     display: inline;
+     width:5px;
+    height:2px;
+    background: lightseagreen;
+    padding:2px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    line-height: 25px;
+}
+.btn{
+      display:inline;
+    width:5px;
+   height:2px;
+   background:whitesmoke;
+   padding:2px;
+   text-align: center;
+   color: black;
+   font-weight: bold;
+   line-height: 25px;
+}
