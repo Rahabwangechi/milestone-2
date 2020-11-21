@@ -12,8 +12,10 @@
     text-align: left;
     padding-left: 2px;
 }
-.categories ul li{
-    list-style-type: circle;
+.zip{
+    position: absolute;
+    left: 78%;
+    top: 19%;
 }
 .cover{
     background-image:url("https://raw.githubusercontent.com/Rahabwangechi/milestone-2/main/images/pexels.jpg");
